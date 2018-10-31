@@ -9,3 +9,7 @@ Para ello tenemos dos tipos de objetos:
 Para esta parte lo que hemos hecho es crear un GameController, el cual se encargará de controlar y lanzar los eventos. Este se representa en la escena con un GameObject vacío. En él tenemos 3 eventos de aumentar poder, disminuir poder, y cambiar la luz que se activa con la tecla L. 
 Por consiguiente en cada script de los ObjectA y ObjectB lo que tenemos es la acción que tienen que realizar al notar el impacto y no podemos olvidar que estos deben estar subscritos a la lista de eventos para que puedan desencadenarse. 
 Finalmente mostramos una serie de GIF con la ejecución de los mismos. 
+
+![](practica3.gif)
+![](practica3-2.gif)
+![](practica3-3.gif)
